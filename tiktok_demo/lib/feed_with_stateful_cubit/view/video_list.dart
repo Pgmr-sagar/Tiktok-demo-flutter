@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tiktok_demo/feed_with_stateful_cubit/cubit/feed_cubit.dart';
 import 'package:tiktok_demo/feed_with_stateful_cubit/cubit/feed_state.dart';
-import 'package:tiktok_demo/feed_with_stateful_cubit/view/video_card.dart';
 import 'package:tiktok_demo/feed_with_cubit_only/tiktok_feed.dart';
 import 'package:tiktok_demo/utility/di_helper.dart';
 
